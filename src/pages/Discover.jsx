@@ -3,6 +3,7 @@ import { genres } from "../assets/constants";
 
 const Discover = () => {
   const genreTitle = "Pop";
+  console.log("25");
 
   return (
     <div className="flex flex-col">
